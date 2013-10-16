@@ -1,7 +1,7 @@
 name: PrimeFaces
 pygments: false
 
-repo_url: http://primefaces.github.io/repository
+repo_url: https://raw.github.com/primefaces/repository/gh-pages
 browse_source: http://code.google.com/p/primefaces/source/browse
 issue_tracker: http://code.google.com/p/primefaces/issues/detail?id=
 
