@@ -1,7 +1,7 @@
 name: PrimeFaces
 pygments: false
 
-base_path: /primefaces-unofficial-site
+baseurl: http://brunolmfg.github.io/primefaces-unofficial-site
 repo_url: https://raw.github.com/primefaces/repository/gh-pages
 browse_source: http://code.google.com/p/primefaces/source/browse
 issue_tracker: http://code.google.com/p/primefaces/issues/detail?id=
